@@ -1,2 +1,2 @@
-# hhh11
-1111
+# InfoPrune:Revisiting Visual Token Pruning from an Information-Theoretic Perspective
+We relesed our code for Qwen-vl-2.5
